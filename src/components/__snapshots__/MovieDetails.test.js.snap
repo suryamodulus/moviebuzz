@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section>
+  <div
+    className="flex flex-col"
+  >
+    <div
+      className="bg-accent text-white p-3 text-xl font-semibold whitespace-normal break-words"
+    >
+      Sonic the Hedgehog 2
+       (2022)
+    </div>
+    <div
+      className="flex flex-row p-5"
+    >
+      <div
+        className="basis-1/2 lg:basis-1/4"
+      >
+        <img
+          alt="Sonic the Hedgehog 2"
+          className="object-cover h-auto w-full"
+          src="https://image.tmdb.org/t/p/w185//egoyMDLqCxzjnSrWOz50uLlJWmD.jpg"
+        />
+      </div>
+      <div
+        className="basis-1/2 lg:basis-1/3 flex flex-col pl-3 gap-2 justify-between"
+      >
+        <div
+          className="flex flex-col"
+        >
+          <span
+            className="text-xl fond-bold mb-2 whitespace-normal break-words"
+          >
+            Sonic the Hedgehog 2
+          </span>
+          <span
+            className="hidden md:flex text-sm md:text-md mb-1"
+          >
+            Release: 
+            2022-03-30
+          </span>
+          <span
+            className="text-sm md:text-md mb-1"
+          >
+            Duration: 
+            122
+             mins
+          </span>
+          <span
+            className="hidden md:flex text-sm font-semibold text-accent-dark text-ellipsis overflow-hidden"
+          >
+            After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
+          </span>
+        </div>
+        <div>
+          <span
+            className="flex text-md font-bold mb-4"
+          >
+            <svg
+              className="mr-2"
+              fill="#facc15"
+              height="28"
+              stroke="#facc15"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="1.5"
+              viewBox="0 0 24 24"
+              width="28"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M12 17.75l-6.172 3.245l1.179 -6.873l-5 -4.867l6.9 -1l3.086 -6.253l3.086 6.253l6.9 1l-5 4.867l1.179 6.873z"
+              />
+            </svg>
+            7.7
+            /10
+          </span>
+          <button
+            className="text-white bg-accent font-medium text-sm px-5 py-3 w-full"
+            type="button"
+          >
+            Add to Favorite
+          </button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <span
+        className="flex md:hidden text-sm font-semibold text-accent-dark px-5 pb-3"
+      >
+        After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
+      </span>
+    </div>
+  </div>
+</section>
+`;

@@ -9,9 +9,9 @@ Coding Assignment - RTI
 This project uses TMDB Api to fetch movie data. Please follow intructions from below link to obtain a new API Key
 TMDB API Documentation [https://developers.themoviedb.org/3/getting-started/introduction](https://developers.themoviedb.org/3/getting-started/introduction)
 
-### Add API Key
+### Configure API Key
 
-Once you have obtained the API key, add it "API_KEY" variable in src/config.js
+Once you have obtained the API key, add it to "API_KEY" variable in src/config.js
 
 ## Available Scripts
 
